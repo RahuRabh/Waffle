@@ -14,7 +14,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       throw new Error('Invalid ID');
     }
 
-    const notifications = await prisma.notification.findMany({
+    const notifications = await prisma.notifications.findMany({
       where: {
         userId,
       },
@@ -28,7 +28,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
         id: userId
       },
       data: {
-        hasNotification: false,
+        hasNotifications: false,
       }
     });
 
