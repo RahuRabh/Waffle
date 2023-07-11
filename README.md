@@ -3,6 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Gif
 ![waffle](https://github.com/RahuRabh/Waffle/assets/63224718/71152006-6234-4f52-8e3b-9f9a0b9b87ac)
 
+## Screenshot
+![image](https://github.com/RahuRabh/Waffle/assets/63224718/f64b7bae-d6ce-49e8-8af3-d016074916cc)
+
 ## Getting Started
 
 First, run the development server:
