@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Gif
+![waffle](https://github.com/RahuRabh/Waffle/assets/63224718/71152006-6234-4f52-8e3b-9f9a0b9b87ac)
+
 ## Getting Started
 
 First, run the development server:
